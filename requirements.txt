@@ -1,5 +1,4 @@
 geopandas
 pandas
 matplotlib
-folium
-warnings
+
