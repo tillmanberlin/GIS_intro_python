@@ -1,3 +1,3 @@
 # GIS Einführung Sommersemester 2023
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tillmanberlin/my-first-binder/HEAD)
